@@ -1,12 +1,9 @@
-import { lazy } from 'react';
-import { Routes, Route } from 'react-router-dom';
-
-function App() {
+const App = () => {
   return (
     <>
-      <p className='text-3xl font-bold underline'>Click on the Vite and React logos to learn more</p>
+      <p className='text-3xl font-bold underline'>Lets get started!!!</p>
     </>
   );
-}
+};
 
 export default App;

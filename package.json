@@ -2,7 +2,7 @@
   "name": "vite-react-temp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://TrifonovDenys.github.io/vite-react-temp/",
+  "homepage": "https://repo.github.io/vite-react-temp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -45,5 +45,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "Tryfonov Denys <trifonowden123@gmail.com>"
 }
